@@ -2,27 +2,27 @@
 
 ### What It TypeScript:
 
-- ####### TypeScript is a language for application-scale JavaScript
-- ####### Typescript is an object oriented Programming Language that build on top of JavaScript with Extra Feature.
-- ####### Typescript is superset of JavaScript developed by microsoft.
-- ####### Typescript is strongly Typed programming Languages.
-- ####### Typescript Designed By Andres Hejlsberg with c# or .net specification .
-- ####### Typescript can be transpiled older versions of javaScript
+- ### TypeScript is a language for application-scale JavaScript
+- ### Typescript is an object oriented Programming Language that build on top of JavaScript with Extra Feature.
+- ### Typescript is superset of JavaScript developed by microsoft.
+- ### Typescript is strongly Typed programming Languages.
+- ### Typescript Designed By Andres Hejlsberg with c# or .net specification .
+- ### Typescript can be transpiled older versions of javaScript
 
 ### Whats Wrong with JavaScript ?
 
-- ####### JavaScript is an Dynamically Typed Language.
-- ####### JavaScript is not suitable for Large scale application.
-- ####### Lack of Strong Typing.
-- ####### only errors during runtime.
-- ####### Suffers type correction.
-- ####### Hard to find bugs.
+- ### JavaScript is an Dynamically Typed Language.
+- ### JavaScript is not suitable for Large scale application.
+- ### Lack of Strong Typing.
+- ### only errors during runtime.
+- ### Suffers type correction.
+- ### Hard to find bugs.
 -
 
 ### Can Browser Recognize TypeScript Code ?
 
-- ####### No, We need to `transpiled` typeScript by using complier like `babel, swc etc.`
-- ####### Typescript convert into javaScript then Browser can read the code.
+- ### No, We need to `transpiled` typeScript by using complier like `babel, swc etc.`
+- ### Typescript convert into javaScript then Browser can read the code.
 
 ### Benefits of TypeScript:
 
