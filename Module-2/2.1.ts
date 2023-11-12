@@ -31,7 +31,7 @@
 
     const KgToGm = (value: string | number): string | number | undefined => {
       if (typeof value === "string") {
-        const convetedValue = parseFloat(value) * 1000;
+        const convetedValue = parseFloat(value) + 1000;
         return `The converted Value is ${convetedValue}`;
       }
       if (typeof value === "number") {

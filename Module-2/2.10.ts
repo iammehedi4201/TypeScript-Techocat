@@ -21,6 +21,9 @@
   //     height: string;
   //     width: string;
   //   };
+  type AreaStringArray = {
+    [key in keyof AreaNumber]: string[];
+  };
 
   type AreaBoolen<T> = {
     [key in keyof T]: T[key];

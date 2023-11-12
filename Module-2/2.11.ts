@@ -51,11 +51,13 @@
     color: "Black",
     id: "192-15-1358",
   };
-
+ 
+  //We can assgin mutiple data type value in empty obj
   const emtyObj: Record<string, unknown> = {};
 
   emtyObj.name = "Mehedi Hasan";
   emtyObj.age = 25;
+  emtyObj.fvrt = { color: "red", call: 36 };
 
   console.log(emtyObj);
 

@@ -16,7 +16,7 @@
   //Note : using (keyof) oparator means it will take vachile object property as key and use it to owner_2 as string litaral
   type owner_2 = keyof vechile;
 
-  const mehedi: owner_2 = "bike";
+  const mehedi: owner_2 = "car";
 
   //-------------------------------
 
